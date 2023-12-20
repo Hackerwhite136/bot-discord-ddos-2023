@@ -1,0 +1,28 @@
+{
+	"token": "MTE4NjI0MDg1ODU3MjQ2ODMyNQ.Gu5Dfr.TU-pjrUi2szuBCcsdVtBuGcQslkxMVAj6VfvQA",
+	"guildID": "1186243891440136202",
+	"roleID": "1186246159417749605",
+        "roleID1": "1186246159417749605",
+        "roleID2": "1186246159417749605",
+        "roleID3": "1186246159417749605",
+        "roleID4": "1186246159417749605",
+        "roleID5": "1186246159417749605",
+        "roleID6": "1186246159417749605",
+        "roleID7": "1186246159417749605",
+	"ownerID": {
+        "ownerID1": "1186246605150634054",
+        "ownerID2": "1186246605150634054"
+    },
+	"commandroom": "1186243891440136205",
+        "guildID1": "186243891440136202",
+	"versionbot": "Bot DDOS",
+        "versionbot1": "BOT SPAM SMS",
+	"img": "https://raw.githubusercontent.com/kyletran191/host/main/img.gif",
+	"photovip": ["https://media.discordapp.net/attachments/1063697805476106291/1079778013715120178/giphy_1.gif"],
+        "photovip1": ["https://media.discordapp.net/attachments/1063697805476106291/1079774772516360192/giphy-_1__1.gif"],
+        "photovip2": ["https://media.discordapp.net/attachments/1063697805476106291/1079774772096938035/giphy-_2__1.gif"],
+        "photovip3": ["https://media.discordapp.net/attachments/1063697805476106291/1079774771618775140/giphy_3.gif"],
+        "photovip4": ["https://media.discordapp.net/attachments/1063697805476106291/1079774771224514692/giphy_4.gif"],
+        "photovip5": ["https://media.discordapp.net/attachments/1063697805476106291/1079774770775732314/giphy.gif"],
+	"mongodb": "mongodb+srv://HyuXingum:Bumbobi2008!@huyxingum.v5rflcb.mongodb.net/?retryWrites=true&w=majority"
+}
